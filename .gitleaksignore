@@ -1,5 +1,4 @@
-# Exact historical false positives: cache keys, documentation placeholders,
-# synthetic JSON test payloads, and xxhash SIMD arithmetic.
+# Exact historical false positives: cache keys, documentation placeholders, synthetic JSON test payloads, and xxhash SIMD arithmetic.
 # Expired upstream signed URLs remain reportable, not suppressed.
 0d18aaa9d1a8af3df9abccd828e22eeaac7f840b:.github/workflows/build-self-hosted.yml:generic-api-key:396
 2c0d875ae6c6043fbbafd2831e160955e9ca6af1:.github/workflows/build.yml:generic-api-key:1530
