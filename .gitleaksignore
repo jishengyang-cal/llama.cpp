@@ -1,0 +1,19 @@
+# Exact historical false positives: cache keys, documentation placeholders,
+# synthetic JSON test payloads, and xxhash SIMD arithmetic.
+# Expired upstream signed URLs remain reportable, not suppressed.
+0d18aaa9d1a8af3df9abccd828e22eeaac7f840b:.github/workflows/build-self-hosted.yml:generic-api-key:396
+2c0d875ae6c6043fbbafd2831e160955e9ca6af1:.github/workflows/build.yml:generic-api-key:1530
+3fe36c32389ade876ec505f32df08f5121cf597f:.github/workflows/build.yml:generic-api-key:1692
+45a8ab2e0ee0b8e1e791e0ea65dca582b0efccf3:.github/workflows/build.yml:generic-api-key:1290
+45a8ab2e0ee0b8e1e791e0ea65dca582b0efccf3:.github/workflows/build.yml:generic-api-key:1472
+4afb0a746f22abaa545b3ebdb76a400d7da3a713:tools/server/tests/unit/test_completion.py:generic-api-key:251
+549b9d84330c327e6791fa812a7d60c0cf63572e:.github/workflows/build.yml:generic-api-key:946
+678d43d7205cffc3a8a026cb60b1de3868cc70a2:.github/workflows/build.yml:generic-api-key:444
+9cd4ebcfb1ceb3b4af6276089252dc27690e98ba:.github/workflows/build.yml:generic-api-key:1252
+ba4dd0bc679a068c9f907de6e3342f6a7870389d:.github/workflows/build-self-hosted.yml:generic-api-key:403
+bb69b8f87bd911ddb6f8484a64ad5c31acb18ab5:.github/workflows/build.yml:generic-api-key:946
+bee378e0988b44bbe93b0768208080951b312363:.github/workflows/build.yml:generic-api-key:1264
+bee378e0988b44bbe93b0768208080951b312363:.github/workflows/build.yml:generic-api-key:1289
+ddf9f94389a614ce005347f1c3f60ce477df1be1:tools/server/README.md:curl-auth-header:1389
+f7cab35ef9e66c57b4a416d09eb6c814e0ba4e4c:examples/gguf-hash/deps/xxhash/xxhash.h:generic-api-key:4905
+f7cab35ef9e66c57b4a416d09eb6c814e0ba4e4c:examples/gguf-hash/deps/xxhash/xxhash.h:generic-api-key:4954
